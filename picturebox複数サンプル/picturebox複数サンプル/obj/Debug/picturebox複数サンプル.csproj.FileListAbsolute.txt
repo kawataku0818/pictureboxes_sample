@@ -7,3 +7,12 @@ C:\Users\user\Desktop\picturebox複数サンプル\picturebox複数サンプル\
 C:\Users\user\Desktop\picturebox複数サンプル\picturebox複数サンプル\obj\Debug\picturebox複数サンプル.csproj.GenerateResource.Cache
 C:\Users\user\Desktop\picturebox複数サンプル\picturebox複数サンプル\obj\Debug\picturebox複数サンプル.exe
 C:\Users\user\Desktop\picturebox複数サンプル\picturebox複数サンプル\obj\Debug\picturebox複数サンプル.pdb
+C:\Users\user\Desktop\PictureBox複数\picturebox複数サンプル\picturebox複数サンプル\bin\Debug\picturebox複数サンプル.exe.config
+C:\Users\user\Desktop\PictureBox複数\picturebox複数サンプル\picturebox複数サンプル\obj\Debug\picturebox複数サンプル.exe
+C:\Users\user\Desktop\PictureBox複数\picturebox複数サンプル\picturebox複数サンプル\obj\Debug\picturebox複数サンプル.pdb
+C:\Users\user\Desktop\PictureBox複数\picturebox複数サンプル\picturebox複数サンプル\bin\Debug\picturebox複数サンプル.exe
+C:\Users\user\Desktop\PictureBox複数\picturebox複数サンプル\picturebox複数サンプル\bin\Debug\picturebox複数サンプル.pdb
+C:\Users\user\Desktop\PictureBox複数\picturebox複数サンプル\picturebox複数サンプル\obj\Debug\picturebox複数サンプル.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\PictureBox複数\picturebox複数サンプル\picturebox複数サンプル\obj\Debug\picturebox複数サンプル.Form1.resources
+C:\Users\user\Desktop\PictureBox複数\picturebox複数サンプル\picturebox複数サンプル\obj\Debug\picturebox複数サンプル.Properties.Resources.resources
+C:\Users\user\Desktop\PictureBox複数\picturebox複数サンプル\picturebox複数サンプル\obj\Debug\picturebox複数サンプル.csproj.GenerateResource.Cache
